@@ -1,8 +1,8 @@
 # Periodic Tables: Restaurant Reservation System
 Thank you for viewing this repo. This is my final project for Thinkful's Software Engineering program. The PERN stack is used in this application, including but not limited to: PostgreSQL, Express.js, React.js, Node.js, and Knex.js.
 
-
-## LINK TO LIVE APPLICATION LINK TO LIVE APPLICATION
+## Link to Live Application
+http://per-tabs-frontend.herokuapp.com/dashboard
 
 ## API Documentation
 ### /reservations
